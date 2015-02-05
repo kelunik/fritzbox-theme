@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document domain("fritz.box") {
+@-moz-document domain("fritz.box"), domain("myfritz.net") {
 	
 	/*!
 	 * FRITZ!Box – alternative theme
@@ -8,6 +8,9 @@
 	 * https://userstyles.org/styles/108615/fritz-box-flat-theme
 	 *
 	 * (c) 2014 Niklas Keller <me@kelunik.com>
+	 *
+	 * added "myfritz.net"
+	 * 2015 evil.baschdi
 	 */
 		
 	body {
